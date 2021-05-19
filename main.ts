@@ -1,8 +1,9 @@
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleInsignia, function (sprite, location) {
-    game.over(true, effects.splatter)
+    game.over(true, effects.bubbles)
 })
 tiles.setTilemap(tilemap`level1`)
 let myCorg = corgio.create(SpriteKind.Player)
+myCorg.bark()
 myCorg.follow()
 myCorg.updateSprite()
 myCorg.verticalMovement()
