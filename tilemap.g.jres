@@ -27,17 +27,6 @@
         ],
         "displayName": "level_1"
     },
-    "level1": {
-        "id": "level1",
-        "mimeType": "application/mkcd-tilemap",
-        "data": "MTAxNDAwMDgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDEwMTAwMDAwMDAwMDAwMDAwMDEwMDAxMDEwMTAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDEwMDAwMDAwMDAwMDAwMTAwMDEwMTAxMDEwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAxMDEwMTAxMDEwMTAxMDAwMTAwMDAwMDAxMDAwMDAwMDAwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDAwMDAyMDIyMDAwMDAwMjAyMDIyMDAwMDAwMDAyMDAwMjAwMDAwMDAwMjIyMjIwMDAwMjAwMDAwMDAwMDAyMDAwMDAwMjIwMDIwMDIwMjAwMDIwMDIwMjIyMjIyMDAwMDAwMDIyMjIyMjIyMjIyMjIwMDAwMDAwMDAyMDIwMDAwMDAwMA==",
-        "tileset": [
-            "myTiles.transparency16",
-            "sprites.dungeon.stairLadder",
-            "sprites.dungeon.collectibleInsignia"
-        ],
-        "displayName": "level1"
-    },
     "level2": {
         "id": "level2",
         "mimeType": "application/mkcd-tilemap",
@@ -46,6 +35,17 @@
             "myTiles.transparency16"
         ],
         "displayName": "level2"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxNDAwMDgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDEwMTAwMDAwMDAwMDAwMDAwMDEwMDAxMDEwMTAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMDAwMDEwMDAwMDAwMDAwMDAwMTAwMDEwMTAxMDEwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAxMDEwMDAwMDEwMTAxMDAwMTAwMDAwMDAxMDAwMDAwMDAwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAxMDAwMTAxMDEwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDEwMDAxMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDAwMDAyMDIyMDAwMDAwMjAyMDIyMDAwMDAwMDAyMDAwMjAwMDAwMDAwMjIyMjIwMDAwMjAwMDAwMDAwMDAyMDAwMDAwMjIwMDIwMDIwMjAwMDIwMDIwMjIwMjAwMDAwMDAwMDIyMjIyMjIyMjAyMDAwMDAwMDAwMDAyMDIwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "level1"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
